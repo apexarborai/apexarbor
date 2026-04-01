@@ -114,7 +114,7 @@ const MODAL_CONTENT = {
       </ul>
 
       <h3>Affirma's Track Record</h3>
-      <p>Affirma Capital's portfolio spans consumer & retail (22%), TMT (26%), engineering & manufacturing (9%), and other high-growth sectors across emerging markets since 2002.</p>
+      <p>Affirma Capital's portfolio spans consumer &amp; retail (22%), TMT (26%), engineering &amp; manufacturing (9%), and other high-growth sectors across emerging markets.</p>
     `
   },
 
@@ -328,137 +328,6 @@ const MODAL_CONTENT = {
 
       <h3>Reporting & Transparency</h3>
       <p>Annual ESG report aligned with TCFD, GRI Standards, and UN SDG frameworks. Portfolio-level ESG scores updated quarterly and available to LPs via our investor portal.</p>
-    `
-  },
-
-  /* ── Leadership: Nainesh Jaisingh ── */
-  'leader-1': {
-    tag: 'Founding Partner & CEO',
-    tagClass: 'tag-cyan',
-    title: 'Nainesh Jaisingh',
-    body: `
-      <p>Nainesh Jaisingh is the Founding Partner and Chief Executive Officer of Affirma Capital, responsible for overall strategy and investor relations. He brings 21 years of tenure with the firm and 32 years of business experience.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Previously Global Head of Principal Finance, Standard Chartered Bank</li>
-        <li>Founding member of Standard Chartered Private Equity (SCPE)</li>
-        <li>Co-founded the Merlion India Fund</li>
-        <li>Previously at ANZ Grindlays Bank</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>Singapore</p>
-    `
-  },
-
-  /* ── Leadership: Udai Dhawan ── */
-  'leader-2': {
-    tag: 'Founding Partner, Head of India',
-    tagClass: 'tag-blue',
-    title: 'Udai Dhawan',
-    body: `
-      <p>Udai Dhawan leads Affirma Capital's India operations, bringing 15 years of tenure with the firm and 28 years of business experience across investment banking and private equity.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Previously Managing Director and Head of India at SCPE</li>
-        <li>Senior Vice President at Kotak Mahindra Capital</li>
-        <li>Director of Corporate Development at Sabre Holdings</li>
-        <li>Investment Banking Associate at JP Morgan</li>
-        <li>Senior Consultant at Arthur Andersen</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>India</p>
-    `
-  },
-
-
-
-  /* ── Leadership: Taimoor Labib ── */
-  'leader-3': {
-    tag: 'Founding Partner, Head of MENA & Chairman of Africa',
-    tagClass: 'tag-blue',
-    title: 'Taimoor Labib',
-    body: `
-      <p>Taimoor Labib leads Affirma Capital's Middle East & North Africa operations and serves as Chairman of the Africa business, with 13 years of tenure at the firm and 25 years of business experience.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Previously Managing Director and Head of MENA & Africa at SCPE</li>
-        <li>Head of Global Portfolio Management at SCPE</li>
-        <li>Prior roles at Saudi PE firm, EFG Hermes, The Carlyle Group, and Bear Stearns</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>UAE (Dubai)</p>
-    `
-  },
-
-  /* ── Leadership: Ronald Tamale ── */
-  'leader-4': {
-    tag: 'Founding Partner, Head of Sub-Saharan Africa',
-    tagClass: 'tag-cyan',
-    title: 'Ronald Tamale',
-    body: `
-      <p>Ronald Tamale leads Affirma Capital's Sub-Saharan Africa operations, with 15 years of tenure at the firm and 22 years of business experience across investment banking and private equity.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Founding member of the SCPE Africa team</li>
-        <li>Previously Managing Director and Head of Africa at SCPE</li>
-        <li>Senior Associate in Investment Banking at Goldman Sachs (US)</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>South Africa (Johannesburg)</p>
-    `
-  },
-
-  /* ── Leadership: Taeyub Kim ── */
-  'leader-5': {
-    tag: 'Founding Partner, Head of Korea',
-    tagClass: 'tag-blue',
-    title: 'Taeyub Kim',
-    body: `
-      <p>Taeyub Kim leads Affirma Capital's Korea operations, with 15 years of tenure at the firm and 21 years of business experience in corporate finance and private equity.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Previously Managing Director and Head of Korea at SCPE</li>
-        <li>Founding member of Shinhan Private Equity</li>
-        <li>Corporate Finance Expert at The Boston Consulting Group</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>Korea (Seoul)</p>
-    `
-  },
-
-  /* ── Leadership: Ivo Philipps ── */
-  'leader-6': {
-    tag: 'Founding Partner & COO',
-    tagClass: 'tag-cyan',
-    title: 'Ivo Philipps',
-    body: `
-      <p>Ivo Philipps is the Founding Partner and Chief Operating Officer of Affirma Capital, responsible for operational excellence and institutional governance. He brings 14 years of tenure with the firm and 34 years of business experience.</p>
-
-      <div class="modal-divider"></div>
-      <h3>Experience</h3>
-      <ul>
-        <li>Previously COO of Principal Finance at Standard Chartered Bank</li>
-        <li>Senior roles at Barclays in the UK — Private Bank, Mortgage businesses, and Risk Management</li>
-        <li>Founding member and Board Director at a subsidiary of Misys Plc</li>
-      </ul>
-
-      <h3>Location</h3>
-      <p>Singapore</p>
     `
   },
 
