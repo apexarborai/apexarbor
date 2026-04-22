@@ -135,6 +135,14 @@
   color: var(--color-white);
   margin-bottom: var(--sp-5);
   font-size: clamp(3rem, 6vw, 5.5rem);
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  max-width: 100%;
+}
+
+.hero__title-line {
+  white-space: nowrap;
 }
 
 /* ── Subtitle ── */
@@ -243,8 +251,8 @@
     padding-top: 8vh;
   }
   .hero__title {
-    font-size: clamp(2rem, 7vw, 3rem);
-    max-width: 100%;
+    font-size: clamp(1.8rem, 5.5vw, 3rem);
+    width: 100%;
   }
   .hero__subtitle {
     font-size: 0.95rem;
@@ -263,8 +271,14 @@
   .hero__stat { min-width: 45%; padding: var(--sp-2); }
 }
 
-/* Small mobile */
+/* Small mobile — allow title lines to wrap naturally */
 @media (max-width: 480px) {
+  .hero__title {
+    font-size: clamp(1.5rem, 7vw, 2rem);
+  }
+  .hero__title-line {
+    white-space: normal;
+  }
   .hero__actions { flex-direction: column; }
   .hero__actions .btn { width: 100%; justify-content: center; }
 }

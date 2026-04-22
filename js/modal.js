@@ -39,8 +39,8 @@ const MODAL_CONTENT = {
         <li>Technology-enabled value creation for investee companies</li>
       </ul>
 
-      <h3>Affirma's Technology Advantage</h3>
-      <p>Leveraging Affirma Capital's 20+ years of emerging market data and 50+ investment professionals operating across 6 offices to identify transformational investment opportunities in founder-led, entrepreneurial businesses.</p>
+      <h3>Our Technology Advantage</h3>
+      <p>Leveraging over 20 years of emerging market data and investment experience across 4 regional offices to identify transformational investment opportunities in founder-led, entrepreneurial businesses.</p>
     `
   },
 
@@ -50,7 +50,7 @@ const MODAL_CONTENT = {
     tagClass: 'tag-blue',
     title: 'Investment Management',
     body: `
-      <p>Apex Arbor's Investment Management arm blends traditional institutional-grade asset management with AI-powered quantitative strategies. Backed by Affirma Capital's extensive network and track record, we serve institutional clients, family offices, and sovereign wealth funds.</p>
+      <p>Apex Arbor's Investment Management arm blends traditional institutional-grade asset management with AI-powered quantitative strategies. Supported by a well-established network and proven investment track record, we serve institutional clients, family offices, and sovereign wealth funds.</p>
 
       <div class="modal-stat-row">
         <div class="modal-stat">
@@ -113,8 +113,8 @@ const MODAL_CONTENT = {
         <li>Hospital and clinic network investments</li>
       </ul>
 
-      <h3>Affirma's Track Record</h3>
-      <p>Affirma Capital's portfolio spans consumer &amp; retail (22%), TMT (26%), engineering &amp; manufacturing (9%), and other high-growth sectors across emerging markets.</p>
+      <h3>Shareholder's Track Record</h3>
+      <p>Affirma Capital's cumulative portfolio spans consumer &amp; retail (22%), TMT (26%), engineering &amp; manufacturing (9%), and other high-growth sectors across emerging markets.</p>
     `
   },
 
@@ -229,7 +229,7 @@ const MODAL_CONTENT = {
     tagClass: 'tag-cyan',
     title: 'Technology-Enhanced Investment Process',
     body: `
-      <p>Apex Arbor applies technology and data analytics to enhance the proven investment processes established by Affirma Capital over two decades in emerging markets.</p>
+      <p>Apex Arbor applies technology and data analytics to enhance proven investment processes, inheriting institutional-grade methodologies built over two decades in emerging markets.</p>
 
       <div class="modal-stat-row">
         <div class="modal-stat">
@@ -283,7 +283,7 @@ const MODAL_CONTENT = {
     tagClass: 'tag-cyan',
     title: 'Global Network Access',
     body: `
-      <p>Affirma Capital's network represents decades of relationship capital assembled across the world's major financial centers — from Singapore and Seoul to Dubai and Johannesburg.</p>
+      <p>A well-established network representing decades of relationship capital assembled across the world's major financial centers — from Singapore and Seoul to Dubai and Johannesburg.</p>
 
       <div class="modal-stat-row">
         <div class="modal-stat">

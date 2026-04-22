@@ -6,7 +6,7 @@
 
 .edge__grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: var(--sp-6);
   margin-top: var(--sp-12);
 }
@@ -60,7 +60,7 @@
   flex: 1;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   .edge__grid { grid-template-columns: 1fr; }
   .edge__item-num { font-size: var(--fs-4xl); min-width: 50px; }
 }

@@ -41,19 +41,6 @@
   margin-top: var(--sp-6);
 }
 
-/* Affirma Capital Logo */
-.about__affirma-logo {
-  margin-top: var(--sp-6);
-  margin-bottom: var(--sp-2);
-}
-
-.about__affirma-logo-img {
-  height: 28px;
-  width: auto;
-  opacity: 0.85;
-  filter: brightness(0.95);
-}
-
 .about__cards {
   display: flex;
   flex-direction: column;
